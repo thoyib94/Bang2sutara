@@ -1,0 +1,38 @@
+{
+  "name": "fullversion",
+  "short_name": "fullversion",
+  "start_url": "https://fullversion.bang2sutara.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas tentang Sinoppsis, Review, Rekomendasi Film dan Anime Berbahasa Indonesia.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s48/20201008_145900.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s72/20201008_145900.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s96/20201008_145900.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s144/20201008_145900.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s168/20201008_145900.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s192/20201008_145900.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OeGQ4reNL6s/X37IpceX51I/AAAAAAAAAu8/Rzd2YPf2OloSde6_HSZxiLn_y3-8rGn1QCPcBGAYYCw/s512/20201008_145900.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
